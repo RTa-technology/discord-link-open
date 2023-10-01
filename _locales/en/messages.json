@@ -1,0 +1,10 @@
+{
+    "extensionName": {
+        "message": "Discord Link Handler",
+        "description": "The name of the extension."
+    },
+    "extensionDescription": {
+        "message": "Open Discord links in the Discord client.",
+        "description": "A brief description of the extension."
+    }
+}
